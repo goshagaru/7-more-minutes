@@ -25,12 +25,12 @@ const CONFIG = {
             text: "Do you like me sweetie?",                                    // First interaction
             yesBtn: "Po",                                             // Text for "Yes" button
             noBtn: "Jo",                                               // Text for "No" button
-            secretAnswer: "I don't just like you, I LOVE you! ❤️"           // Secret hover message
+            secretAnswer: "I don't just like you, I LOVE you! 🖤"           // Secret hover message
         },
         second: {
             text: "How much do you love me, Natalia?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Next 🖤"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine? 🌹", // The big question!
@@ -42,8 +42,8 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "DAMN You love me that much sweetheart?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "7 more million-minutes with you! 🚀💝",              // Shows when they go past 1000%
+        extreme: "DAMN You love me that much sweetheart?? 🥰💝",  // Shows when they go past 5000%
+        high: "7 more million-minutes with you! 💝",              // Shows when they go past 1000%
         normal: "7 more minutes please?"                           // Shows when they go past 100%
     },
 
@@ -57,8 +57,8 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#B2AC88",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#F4C2C2",        // Gradient end (should complement backgroundStart)
+        backgroundStart: "#b2ac88",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#f4c2c2",        // Gradient end (should complement backgroundStart)
         buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
         buttonHover: "#c5e9fa",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#faf296"             // Text color (make sure it's readable!)
@@ -70,7 +70,7 @@ const CONFIG = {
         floatDuration: "12s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "55px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.7s",            // Speed of bouncing animations (0.3-0.7s recommended)
-        heartExplosionSize: 1.7         // Size of heart explosion effect (1.2-2.0 recommended)
+        heartExplosionSize: "1.7"         // Size of heart explosion effect (1.2-2.0 recommended)
     },
 
     // Background Music (Optional)
