@@ -29,11 +29,11 @@ const CONFIG = {
         },
         second: {
             text: "How much do you love me, Natalia?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "This much!!",                                   // Text before the percentage
             nextBtn: "Next 🖤"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine? 🌹", // The big question!
+            text: "Will you be my Valentine? 🌹🖤", // The big question!
             yesBtn: "PO!",                                             // Text for "Yes" button
             noBtn: "Jo"                                                 // Text for "No" button
         }
@@ -42,26 +42,26 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "DAMN You love me that much sweetheart?? 🥰💝",  // Shows when they go past 5000%
+        extreme: "DAMN You love me that much sweetheart?? 🖤🖤🖤",  // Shows when they go past 5000%
         high: "7 more million-minutes with you! 💝",              // Shows when they go past 1000%
         normal: "7 more minutes please?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift(me), a big warm hug and a huge kiss!(end of the year hopefully)",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the luckiest man in the world! 💝💖💝💓",
+        message: "Now come get your gift(ME), a big warm hug and a huge kiss!(end of the year HOPEFULLY)",
+        emojis: "🖤💖🐇🍫💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#b2ac88",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#f4c2c2",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#c5e9fa",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#faf296"             // Text color (make sure it's readable!)
+        backgroundStart: "#b2ac88",      // Gradient start (try pastel colors for a soft look) b2ac88
+        backgroundEnd: "#b2ac88",        // Gradient end (should complement backgroundStart) f4c2c2
+        buttonBackground: "#f4c2c2",     // Button color (should stand out against the background) ff6b6b
+        buttonHover: "#c5e9fa",          // Button hover color (slightly lighter than buttonBackground) c5e9fa
+        textColor: "#faf296"             // Text color (make sure it's readable!) faf296
     },
 
     // Animation settings
