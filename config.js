@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '🖤', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '🤍', '🖤', '💗', '💓'],  // Heart emojis
         bears: ['🍫', '🐇']                       // Cute bear emojis
     },
 
@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine? 🌹🖤", // The big question!
-            yesBtn: "PO!",                                             // Text for "Yes" button
+            yesBtn: "PO!!",                                             // Text for "Yes" button
             noBtn: "Jo"                                                 // Text for "No" button
         }
     },
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "DAMN You love me that much sweetheart?? 🖤🖤🖤",  // Shows when they go past 5000%
+        extreme: "DAMN You love me that much baby?? 🖤🖤🖤",  // Shows when they go past 5000%
         high: "7 more million-minutes with you! 💝",              // Shows when they go past 1000%
         normal: "7 more minutes please?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest man in the world! 💝💖💝💓",
-        message: "Now come get your gift(ME), a big warm hug and a huge kiss!(end of the year HOPEFULLY)",
-        emojis: "🖤💖🐇🍫💋❤️💕"  // These will bounce around
+        title: "HELL YEAH! I'm the luckiest man in the WORLD!!!!",
+        message: "SEE YOU SOON MY LOVELY, I LOVE YOU!",
+        emojis: "🖤❤️🐇🍫💋🤍💕🥚7️⃣"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -61,7 +61,7 @@ const CONFIG = {
         backgroundEnd: "#b2ac88",        // Gradient end (should complement backgroundStart) f4c2c2
         buttonBackground: "#f4c2c2",     // Button color (should stand out against the background) ff6b6b
         buttonHover: "#c5e9fa",          // Button hover color (slightly lighter than buttonBackground) c5e9fa
-        textColor: "#faf296"             // Text color (make sure it's readable!) faf296
+        textColor: "#bf1d43"             // Text color (make sure it's readable!) bf1d43
     },
 
     // Animation settings
