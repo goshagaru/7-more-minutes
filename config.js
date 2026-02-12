@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '🤍', '🖤', '💗', '💓'],  // Heart emojis
-        bears: ['🍫', '🐇']                       // Cute bear emojis
+        bears: ['🍫', '🐇', '🥚', '7️⃣']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "HELL YEAH! I'm the luckiest man in the WORLD!!!!",
-        message: "SEE YOU SOON MY LOVELY, I LOVE YOU!",
+        title: "HELL YEAH!!!",
+        message: "SEE YOU SOONER MY LOVELY, I LOVE YOU!",
         emojis: "🖤❤️🐇🍫💋🤍💕🥚7️⃣"  // These will bounce around
     },
 
